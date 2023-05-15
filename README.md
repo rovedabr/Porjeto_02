@@ -1,8 +1,12 @@
-# Projeto 02 
+# Projeto 02 - HTML/CSS
 
-## Seus dados estão protegidos?
+*Seus dados estão protegidos?*
 
-Introdução a programação HTML e CCS.
+## Imagem
+![image](https://github.com/rovedabr/RS.Proj_02/assets/118762335/db3edac7-e07d-4d57-afac-24946046f95d)
+
+
+## Introdução a programação HTML e CCS.
 
 - Estruturação semântica;
 - CSS avançado
@@ -10,8 +14,6 @@ Introdução a programação HTML e CCS.
 - Box Model e Flexbox.
 - Criação de links.
 - Posicionamento de header e footer
-
-
 
 ## Referência
 
